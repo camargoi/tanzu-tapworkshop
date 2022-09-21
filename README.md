@@ -48,14 +48,14 @@ Introducción a Tanzu Application Platform
 Password:devex
 
 
-Taller práctico interactivo:
+###Taller práctico interactivo:
 
 La experiencia del desarrollador (acelerador de aplicaciones, herramientas IDE,
 desarrollo, vista en vivo, envío a compilación)
 
 Break
 
-Taller práctico interactivo:
+###Taller práctico interactivo:
 
 La experiencia del operador (cargas de trabajo, Supply Chain, entregables)
 
