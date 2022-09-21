@@ -29,7 +29,9 @@ producción, para crear e implementar software de forma rápida y segura en cual
 clúster de Kubernetes local o en cualquier nube pública
 compatible: https://tanzu.vmware.com/application-platform
 
+
 ### Agenda
+
 
 ### Tanzu Application Platform Track
 
@@ -38,7 +40,7 @@ actualizar y mantener aplicaciones en cualquier plataforma de Kubernetes de una 
 sencilla, mejorando la experiencia del desarrollador.
 
 
-Introducción a Tanzu Application Platform
+### Introducción a Tanzu Application Platform
 
 [Tanzu Application Platform](https://docs.google.com/presentation/d/1pxusCnTJxgHt47yle9rbuCoIBUcpqmhR/edit?usp=sharing&ouid=112891771648131852053&rtpof=true&sd=true)
 
@@ -48,7 +50,8 @@ Introducción a Tanzu Application Platform
 Password:devex
 
 
-###Taller práctico interactivo:
+
+### Taller práctico interactivo:
 
 La experiencia del desarrollador (acelerador de aplicaciones, herramientas IDE,
 desarrollo, vista en vivo, envío a compilación)
@@ -59,7 +62,8 @@ Break
 
 La experiencia del operador (cargas de trabajo, Supply Chain, entregables)
 
-15:45 – 16:00 PM : Cierre y premios
+Cierre 
+
 
 ### Material de apoyo:
 
