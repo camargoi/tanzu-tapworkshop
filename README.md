@@ -55,7 +55,7 @@ desarrollo, vista en vivo, envío a compilación)
 
 Break
 
-###Taller práctico interactivo:
+### Taller práctico interactivo:
 
 La experiencia del operador (cargas de trabajo, Supply Chain, entregables)
 
