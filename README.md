@@ -1,4 +1,4 @@
-###Tanzu Application Platform Workshop 2022
+### Tanzu Application Platform Workshop 2022
 
 <p align="left">
   <img src="vmware-tanzu-application-platform-logo.e2e1eaa23c5795f062a3f9acfbc567b9ee20be7a.png" width="500" title="hover text">
