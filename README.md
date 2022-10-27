@@ -47,7 +47,7 @@ sencilla, mejorando la experiencia del desarrollador.
 
 [Link de acceso al laboratorio](https://hola-tanzu-ui.tap.corby.cc/)
 
-Password:tanzu
+Password:workshop
 
 
 
